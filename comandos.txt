@@ -1,0 +1,3 @@
+g++ -c main.cpp funcoes.cpp
+g++ -o prog main.o funcoes.o
+./prog circulo
